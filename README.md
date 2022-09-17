@@ -5,6 +5,9 @@ Tecnologias desenvolvidas...
 - H2 Database;
 - Git;
 
-PLATAFORMA: Udemy.
-CURSO: Comece a aprender Spring Boot agora de forma prática!
-INSTRUTOR: Rodrigo Peleias.
+PLATAFORMA
+- Udemy.
+CURSO
+- Comece a aprender Spring Boot agora de forma prática!
+INSTRUTOR
+- Rodrigo Peleias.
