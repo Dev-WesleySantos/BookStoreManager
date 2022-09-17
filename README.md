@@ -7,7 +7,9 @@ Tecnologias desenvolvidas...
 
 PLATAFORMA
 - Udemy.
+
 CURSO
 - Comece a aprender Spring Boot agora de forma prática!
+
 INSTRUTOR
 - Rodrigo Peleias.
